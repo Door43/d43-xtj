@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xtj:home|Door43 (xtj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xtj|d43-xtj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xtj/archive/master.zip|d43-xtj.zip]]
+
+**Recent Changes**
+{{changes>ns = xtj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xtj|Ethnologue data]]
+
